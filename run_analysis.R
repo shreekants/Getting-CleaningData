@@ -39,6 +39,7 @@ trainset <- cbind(yactivitiesIds,train)
 #add the subject Ids to the train dataset as the very 1st column
 trainsetall <- cbind(subjectIds,trainset)
 
+
 # training dataset is now ready.... proceed to read test dataset
 Xtest <- read.table(file="./test/X_test.txt", sep="", 
                     strip.white = TRUE, 
