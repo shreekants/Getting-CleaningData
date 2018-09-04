@@ -1939,17 +1939,14 @@ Min. and max.                   -1; 0.29
 
 Report generation information:
 
- *  Created by Shreekant (username: `ADMINIBM`).
+ *  Created by Shreekant.
 
  *  Report creation time: Sat Sep 01 2018 16:44:08
 
- *  Report Was run from directory: `C:/Users/IBM_ADMIN/Documents/shree/Personal/courses/2018/Cleaning Data/Week4/Data/UCI HAR Dataset`
 
  *  dataMaid v1.1.2 [Pkg: 2018-05-03 from CRAN (R 3.5.1)]
 
  *  R version 3.5.0 (2018-04-23).
-
- *  Platform: x86_64-w64-mingw32/x64 (64-bit)(Windows 7 x64 (build 7601) Service Pack 1).
 
  *  Function call: `makeDataReport(data = tidyfinaldata, mode = "summarize", file = "codebook_tidyfinaldata.Rmd", 
     checks = list(list("showAllFactorLevels")), listChecks = FALSE, 
